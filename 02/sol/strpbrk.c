@@ -10,8 +10,8 @@
 int any(char s1[],char s2[]);
 
 int main() {
-  char s1[] = "fuck you";
-  char s2[] = "pjy";
+  char s1[] = "hello world";
+  char s2[] = "pjwyh";
   printf("%d\n", any(s1,s2));
   return 0;
 }
